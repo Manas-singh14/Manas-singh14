@@ -1,27 +1,199 @@
-# 💫 About Me:
-I am an aspiring technology professional specializing in data science, machine learning, and generative AI, with a growing focus on climate data analytics. I am currently building a strong foundation in Python, statistical modeling, and real-world AI applications, with hands-on experience in solving data-driven problems.<br><br>I have previously worked as a Data Science Intern at the Climate Resilience Observatory, where I contributed to data analysis and modeling efforts focused on environmental and climate-related challenges. Currently, I am working as a Climate Data Scientist Intern at Darukaa Earth, where I am involved in leveraging data science techniques to derive insights from climate datasets and support sustainable decision-making.<br><br>My technical interests include working with modern AI frameworks such as LangChain, transformer-based models, and vector databases, with a particular emphasis on structured outputs and intelligent system design. I am also actively exploring applications of machine learning in domains like weather prediction and environmental analytics.<br><br>Beyond technical work, I have a passion for creative writing, including crafting lyrical content, which enhances my ability to think creatively alongside analytical problem-solving.<br><br>I am continuously seeking opportunities to learn, collaborate, and contribute to impactful projects at the intersection of AI and climate innovation.
+<div align="center">
 
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  ██████╗ █████╗ ████████╗ █████╗     ███████╗ ██████╗██╗███████╗   ║
+║  ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗    ██╔════╝██╔════╝██║██╔════╝   ║
+║  ██║  ██║███████║   ██║   ███████║    ███████╗██║     ██║███████╗   ║
+║  ██║  ██║██╔══██║   ██║   ██╔══██║    ╚════██║██║     ██║╚════██║   ║
+║  ██████╔╝██║  ██║   ██║   ██║  ██║    ███████║╚██████╗██║███████║   ║
+║  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝╚══════╝   ║
+║                  [ Climate × AI × Earth Systems ]                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manas-singh-5b2001357) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manas.singh0503@gmail.com) 
+# `$ whoami` → Climate Data Scientist & AI Engineer
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manas-singh14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manas-singh14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas-singh14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Decoding the Earth's signals — one model at a time.*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manas-singh14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer+%7C+Climate+AI;Building+models+that+matter+for+the+planet;Python+%7C+TensorFlow+%7C+LangChain+%7C+PyTorch;Open+to+impactful+opportunities)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Manas-singh14&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manas-singh14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌍 Research Profile
+
+> *"The climate system is a coupled nonlinear chaotic system — and so, in essence, are the models we build to understand it."*
+
+I sit at the intersection of **machine learning**, **generative AI**, and **climate science** — applying data-driven methodologies to one of the most complex dynamic systems humanity has ever faced: Earth's climate.
+
+Currently building intelligent pipelines that transform raw geophysical and environmental datasets into structured, actionable insights for ESG strategy and climate resilience planning.
+
+---
+
+## 🔬 Field Stations *(Work Experience)*
+
+```yaml
+Current Position:
+  role: Climate Data Scientist Intern
+  organization: Darukaa Earth
+  domain: Climate Analytics, ESG Insights, Sustainable Decision-Making
+  methods: [ML pipelines, geospatial data, climate modeling, ESG frameworks]
+
+Previous Position:
+  role: Data Science Intern
+  organization: Climate Resilience Observatory
+  domain: Environmental Data Analysis, Climate Resilience Modeling
+  methods: [statistical modeling, data analysis, predictive modeling]
+```
+
+---
+
+## ⚙️ Instrumentation *(Tech Stack)*
+
+### 🧠 Core Intelligence Layer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Generative AI & LLM Infrastructure
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+> Transformer architectures · RAG pipelines · Text splitting · Embeddings · Structured outputs · Vector stores
+
+### 📊 Data Ecosystem
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗃️ Data Storage & Retrieval
+```
+Vector Databases  →  ChromaDB  |  FAISS  |  Weaviate
+Data Systems      →  SQL  |  JSON  |  HDF5  |  NetCDF
+```
+
+---
+
+## 🛰️ Mission Domains *(Areas of Focus)*
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   🌡️  CLIMATE ANALYTICS       →  Predictive climate modeling,       │
+│                                  geospatial data pipelines          │
+│                                                                     │
+│   🌿  ESG INTELLIGENCE         →  Data-driven sustainability         │
+│                                  metrics & reporting frameworks     │
+│                                                                     │
+│   🌩️  WEATHER PREDICTION       →  ML-based forecasting,             │
+│                                  time-series analysis               │
+│                                                                     │
+│   🤖  GENERATIVE AI SYSTEMS    →  RAG, LLM applications,            │
+│                                  intelligent data agents            │
+│                                                                     │
+│   🔬  STATISTICAL MODELING     →  Regression, classification,       │
+│                                  probabilistic inference            │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📡 Signal Acquisition *(Open to Opportunities)*
+
+Currently **open to full-time roles** across the following mission profiles:
+
+| Role | Signal Strength |
+|------|----------------|
+| 🔬 Data Scientist | `████████████` Strong |
+| 📊 Data Analyst | `████████████` Strong |
+| 🤖 Generative AI Engineer | `███████████░` High |
+| 🌍 ESG Consultant | `██████████░░` Growing |
+| ⚙️ Machine Learning Engineer | `███████████░` High |
+
+> *Seeking positions where data meets planetary impact — climate tech, sustainability, and AI for good.*
+
+---
+
+## 🧬 Methodology *(How I Think)*
+
+```python
+class ClimateAI_Engineer:
+    def __init__(self):
+        self.name             = "[ Your Name ]"
+        self.current_roles    = ["Climate Data Scientist @ Darukaa Earth"]
+        self.languages        = ["Python", "SQL", "the language of data"]
+        self.interests        = ["climate resilience", "ESG analytics",
+                                 "generative AI", "earth systems modeling"]
+        self.creative_side    = ["lyrical writing", "narrative thinking",
+                                 "translating complexity into clarity"]
+
+    def approach_problem(self, problem):
+        hypothesis   = self.form_hypothesis(problem)
+        data         = self.collect_and_clean(hypothesis)
+        model        = self.train_and_validate(data)
+        insight      = self.interpret_results(model)
+        return self.communicate_impact(insight)  # ← This part matters most
+
+    def philosophy(self):
+        return """
+        The best data scientists don't just build models —
+        they build understanding. Every dataset is a
+        story waiting to be told responsibly.
+        """
+```
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=AAAAAA&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=AAAAAA&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🌐 Transmission Channels *(Connect With Me)*
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO)
+
+</div>
+
+---
+
+## 🔭 Beyond The Data
+
+> *"I write code by day and lyrics by night — both are about finding the precise arrangement of symbols that makes something come alive."*
+
+The same instincts that make for good creative writing — rhythm, structure, knowing when to break the pattern — quietly inform how I approach data storytelling, model interpretation, and communicating complex ideas to non-technical stakeholders.
+
+---
+
+<div align="center">
+
+```
+══════════════════════════════════════════════════════════════
+  Observation Window : Active
+  Data Streams       : Climate ∩ AI ∩ ESG
+  Mission Status     : [ ONGOING ]
+  Next Transmission  : Open to collaboration
+══════════════════════════════════════════════════════════════
+```
+
+*"In a world of noisy signals, be the model that generalizes well."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00D9FF)
+
+</div>
