@@ -217,9 +217,9 @@ My background in **lyrical writing** gives me an edge most data professionals do
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manas.singh0503@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-singh14)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00BFA5?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
