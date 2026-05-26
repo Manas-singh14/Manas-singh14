@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:00acc1,100:00e676&height=200&section=header&text=Data Science%20%C3%97%20AI%20%C3%97%20Climate&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Climate%20AI%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:00acc1,100:00e676&height=200&section=header&text=DataScience%20%C3%97%20AI%20%C3%97%20Climate&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Climate%20AI%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" />
 
 </div>
 
