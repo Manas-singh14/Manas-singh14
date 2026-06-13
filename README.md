@@ -22,32 +22,95 @@
 
 ## 🌊 About Me
 
-```python
-#!/usr/bin/env python3
-# climate_ai_engineer.py  |  version 2025.active
+<div align="center">
 
-profile = {
-    "name"            : "Manas Singh",
-    "current_roles"   : [
-        "Climate Data Scientist Intern @ Darukaa Earth",
-        "Ex - Data Science Intern @ Climate Resilience Observatory"
-    ],
-    "mission"         : "Decode Earth's climate signals using AI",
-    "passion_domains" : [
-        "Climate Analytics", "ESG Intelligence", "Generative AI",
-        "Weather Prediction", "MCP Tool Building", "Lyrical Writing"
-    ],
-    "seeking"         : [
-        "Data Scientist", "ML Engineer", "GenAI Engineer",
-        "ESG Consultant", "Data Analyst"
-    ],
-    "superpower"      : "Bridging deep technical rigor with creative storytelling",
-    "currently_building": "AI agents with MCP + FastAPI + Docker",
-}
-
-def run():
-    print("📡 Signal acquired. Systems nominal. Let's build.")
 ```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    ███╗   ███╗ █████╗ ███╗   ██╗ █████╗ ███████╗                   ║
+║    ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔════╝                   ║
+║    ██╔████╔██║███████║██╔██╗ ██║███████║███████╗                   ║
+║    ██║╚██╔╝██║██╔══██║██║╚██╗██║██╔══██║╚════██║                   ║
+║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║                   ║
+║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  S I N G H       ║
+║                                                                      ║
+║           Climate AI Engineer  ·  GenAI Builder  ·  Lyricist        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 Who Am I?
+
+🌍 &nbsp; A **Climate Data Scientist** on a mission to decode Earth's signals using AI
+
+🧠 &nbsp; I build **LLM pipelines**, **RAG systems**, and **AI agents** that solve real-world environmental problems
+
+🎵 &nbsp; By night, I write **lyrics** — because the best data stories have rhythm too
+
+🔭 &nbsp; Currently exploring the intersection of **Generative AI + Climate Science**
+
+⚡ &nbsp; Superpower: translating complex high-dimensional data into decisions that matter
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 What I'm Seeking
+
+```
+┌─────────────────────────────────┐
+│  🔍 Open To                     │
+│  ├── Data Scientist             │
+│  ├── ML Engineer                │
+│  ├── GenAI Engineer             │
+│  ├── ESG Consultant             │
+│  └── Data Analyst               │
+│                                 │
+│  🛠️ Currently Building          │
+│  └── AI agents with            │
+│      MCP + FastAPI + Docker     │
+└─────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience Timeline
+
+<div align="center">
+
+```
+                    ╔═══════════════════════════════════════╗
+                    ║         CAREER SIGNAL TRACE           ║
+                    ╚═══════════════════════════════════════╝
+
+  2023                                                      2025+
+   │                                                          │
+   ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶
+   │                                                          │
+   │                                                          │
+   ▼                                          ▼               ▼
+┌──────────────────────────┐   ┌──────────────────────────┐  ┌──────────────┐
+│  🌿 Climate Resilience   │   │  🌍 Darukaa Earth        │  │  🚀 Next     │
+│     Observatory          │   │                          │  │     Chapter  │
+│                          │   │   Climate Data Scientist │  │              │
+│  Data Science Intern     │──▶│   Intern   [CURRENT]    │──▶│   [OPEN]    │
+│                          │   │                          │  │              │
+│  ✦ Env. data pipelines   │   │  ✦ ML climate analytics  │  │  You + Me   │
+│  ✦ Predictive modeling   │   │  ✦ ESG insights engine   │  │  = Impact   │
+│  ✦ Climate resilience    │   │  ✦ GenAI for climate     │  │             │
+│    statistical insights  │   │  ✦ Intelligent pipelines │  │             │
+└──────────────────────────┘   └──────────────────────────┘  └──────────────┘
+```
+
+</div>
 
 ---
 
@@ -74,7 +137,6 @@ def run():
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C3483?style=for-the-badge&logo=anthropic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 Data Ecosystem
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -170,7 +232,7 @@ Lyrical writing · Data storytelling · Complex-to-simple communication
 ├─────────────────────┬────────────────────────────────────────────────────────┤
 │  INPUT LAYER        │  PDFs · CSVs · Climate Datasets · ESG Reports · APIs   │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  API GATEWAY        │  FastAPI · REST endpoints · Async request handling      │
+│  API GATEWAY        │  FastAPI · Async endpoints · Pydantic validation        │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
 │  MCP TOOLS          │  Custom MCP servers · Tool definitions · Agent context  │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
@@ -188,7 +250,7 @@ Lyrical writing · Data storytelling · Complex-to-simple communication
 ├─────────────────────┼────────────────────────────────────────────────────────┤
 │  CONTAINERISATION   │  Docker · Docker Compose · Multi-service deployments    │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  OUTPUT             │  Structured JSON · Reports · Climate Insights · APIs    │
+│  OUTPUT             │  Structured JSON · Reports · Climate Insights           │
 └─────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
@@ -205,44 +267,11 @@ Lyrical writing · Data storytelling · Complex-to-simple communication
 | 🤝 **CrewAI** | Multi-agent orchestration, role-based AI task delegation |
 | 🔌 **MCP (Model Context Protocol)** | Custom tool servers, context injection for Claude & GPT agents |
 | 🐳 **Docker** | Containerising AI apps, reproducible ML environments |
-| ⚡ **FastAPI** | High-performance REST APIs for ML model serving |
+| ⚡ **FastAPI** | High-performance async APIs for ML model serving |
 | 🤗 **HuggingFace** | Fine-tuning, inference, open-source model access |
 | 🖥️ **Ollama** | Running LLMs locally for offline / private inference |
 
 </div>
-
----
-
-## 🧭 Career Trajectory
-
-```
-2023 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025+
-
- ┌───────────────────────────────────────────────────────────────────────┐
- │                                                                       │
- │  🌿 Climate Resilience Observatory                                    │
- │     Data Science Intern                                               │
- │     ├─ Environmental data analysis & pipeline design                  │
- │     ├─ Climate resilience predictive modeling                         │
- │     └─ Statistical insights for sustainability decisions              │
- │                                                                       │
- │                            ▼                                          │
- │                                                                       │
- │  🌍 Darukaa Earth                              [CURRENT]             │
- │     Climate Data Scientist Intern                                     │
- │     ├─ ML-driven climate dataset analytics                            │
- │     ├─ ESG-focused insights engineering                               │
- │     ├─ Intelligent data pipelines for sustainable decisions           │
- │     └─ GenAI tools for climate data interpretation                    │
- │                                                                       │
- │                            ▼                                          │
- │                                                                       │
- │  🚀 Next Chapter                               [OPEN]                │
- │     Data Scientist · ML Engineer · GenAI Engineer                    │
- │     ESG Consultant · Climate AI Researcher                            │
- │                                                                       │
- └───────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -292,6 +321,15 @@ Whether it's spinning up a **FastAPI** backend for a climate model, building a *
 
 *Open to full-time roles, research collaborations, and climate AI projects.*<br/>
 *Let's build something that matters for the planet. 🌍*
+
+<br/>
+
+<!-- animated snake contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manas-singh14/Manas-singh14/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manas-singh14/Manas-singh14/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Manas-singh14/Manas-singh14/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
