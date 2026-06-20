@@ -46,7 +46,7 @@
 
 ### 👤 Who Am I?
 
-🌍 &nbsp; A **Climate Data Scientist** on a mission to decode Earth's signals using AI
+🌍 &nbsp; A **Data Scientist & AI Engineer** on a mission to decode Earth's signals using AI
 
 🧠 &nbsp; I build **LLM pipelines**, **RAG systems**, and **AI agents** that solve real-world environmental problems
 
