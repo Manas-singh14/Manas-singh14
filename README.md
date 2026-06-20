@@ -34,7 +34,7 @@
 ║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║                   ║
 ║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  S I N G H       ║
 ║                                                                      ║
-║           Climate AI Engineer  ·  GenAI Builder  ·  Lyricist        ║
+║            AI Engineer  ·  ML Builder  ·  Data Scientist             ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -50,9 +50,9 @@
 
 🧠 &nbsp; I build **LLM pipelines**, **RAG systems**, and **AI agents** that solve real-world environmental problems
 
-🎵 &nbsp; By night, I write **lyrics** — because the best data stories have rhythm too
+🎵 &nbsp; I build  **ML Models** — because the best data stories needs to be extracted using Data science and statistics.
 
-🔭 &nbsp; Currently exploring the intersection of **Generative AI + Climate Science**
+🔭 &nbsp; Currently exploring the intersection of **AI ENGINEER AND DATA SCIENTIST**
 
 ⚡ &nbsp; Superpower: translating complex high-dimensional data into decisions that matter
 
