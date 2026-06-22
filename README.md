@@ -91,14 +91,14 @@
                     ║         CAREER SIGNAL TRACE           ║
                     ╚═══════════════════════════════════════╝
 
-  2023                                                      2025+
+  2025                                                      2026+
    │                                                          │
    ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶
    │                                                          │
    │                                                          │
    ▼                                          ▼               ▼
 ┌──────────────────────────┐   ┌──────────────────────────┐  ┌──────────────┐
-│  🌿 Climate Resilience   │   │  🌍 Darukaa Earth        │  │  🚀 Next     │
+│  🌿 Climate Resilience   │  │  🌍 Darukaa Earth        │  │  🚀 Next     │
 │     Observatory          │   │                          │  │     Chapter  │
 │                          │   │   Climate Data Scientist │  │              │
 │  Data Science Intern     │──▶│   Intern   [CURRENT]    │──▶│   [OPEN]    │
