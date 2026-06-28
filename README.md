@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Manas%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+[![Name Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&height=70&lines=Manas+Singh)](https://git.io/typing-svg)
 
 ### 🧠 Data Scientist&nbsp; • &nbsp;🤖 AI Engineer&nbsp; • &nbsp;📊 ML Builder
 
@@ -89,11 +89,15 @@ Agentic AI tools with MCP + FastAPI + Docker
 <div align="center">
 
 **Machine Learning & Deep Learning**
+<br/>
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Generative AI & RAG**
+<br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1B5E20?style=for-the-badge&logo=graphql&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -101,12 +105,16 @@ Agentic AI tools with MCP + FastAPI + Docker
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **Backend & Deployment**
+<br/>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data Ecosystem**
+<br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-43A047?style=for-the-badge&logo=plotly&logoColor=white)
