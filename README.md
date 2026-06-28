@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:00acc1,100:00e676&height=220&section=header&text=Data%20Science%20%26%20AI&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Engineer&descAlignY=56&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:6a1b9a,100:00e676&height=220&section=header&text=AI%20Engineer%20%26%20Data%20Scientist&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=LLM%20Pipelines%20%C2%B7%20RAG%20Systems%20%C2%B7%20AI%20Agents%20%C2%B7%20Predictive%20Modeling&descAlignY=56&descSize=15&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&lines=🌍+Turning+climate+data+into+actionable+intelligence;🤖+Building+LLM+pipelines+%26+RAG+architectures;🐳+Dockerizing+AI+apps+%7C+FastAPI+backends+%7C+MCP+tools;🔬+LangChain+%7C+LlamaIndex+%7C+CrewAI+%7C+PyTorch;🌿+ESG+analytics+%7C+Weather+prediction+%7C+Deep+learning;✍️+Data+scientist+who+also+writes+lyrics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&lines=%F0%9F%A4%96+Building+LLM+pipelines+%26+RAG+architectures;%F0%9F%A7%A0+Designing+agentic+AI+workflows+with+MCP;%F0%9F%90%B3+Dockerizing+AI+apps+%7C+FastAPI+backends;%F0%9F%94%AC+LangChain+%7C+LangGraph+%7C+HuggingFace+%7C+TensorFlow;%F0%9F%93%8A+Statistical+modeling+%7C+Deep+learning+%7C+NLP;%F0%9F%9A%80+Turning+raw+data+into+production-ready+intelligence)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,13 +14,13 @@
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Work-00e676?style=for-the-badge&logo=checkmarx&logoColor=white)
 &nbsp;
-![Focus](https://img.shields.io/badge/FOCUS-Climate%20AI-00acc1?style=for-the-badge&logo=leaflet&logoColor=white)
+![Focus](https://img.shields.io/badge/FOCUS-GenAI%20%26%20Applied%20ML-6a1b9a?style=for-the-badge&logo=opencollective&logoColor=white)
 
 </div>
 
 ---
 
-## 🌊 About Me
+## 🧠 About Me
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 ║    ██║ ╚═╝ ██║██║  ██║██║ ╚████║██║  ██║███████║                   ║
 ║    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  S I N G H       ║
 ║                                                                      ║
-║            AI Engineer  ·  ML Builder  ·  Data Scientist             ║
+║         AI Engineer  ·  ML Builder  ·  Data Scientist               ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -46,15 +46,15 @@
 
 ### 👤 Who Am I?
 
-🌍 &nbsp; A **Data Scientist & AI Engineer** on a mission to decode Earth's signals using AI
+🧠 &nbsp; A **Data Scientist & AI Engineer** with a statistics-first foundation and a builder's instinct for shipping real systems
 
-🧠 &nbsp; I build **LLM pipelines**, **RAG systems**, and **AI agents** that solve real-world environmental problems
+🤖 &nbsp; I design **LLM pipelines**, **RAG architectures**, and **autonomous AI agents** using LangChain, LangGraph & MCP
 
-🎵 &nbsp; I build  **ML Models** — because the best data stories needs to be extracted using Data science and statistics.
+📈 &nbsp; B.Sc in **Statistics** + M.Sc in **Data Science** — I reason about data before I model it
 
-🔭 &nbsp; Currently exploring the intersection of **AI ENGINEER AND DATA SCIENTIST**
+🔭 &nbsp; Currently exploring **agentic AI systems**, retrieval-augmented architectures, and tool-using LLMs
 
-⚡ &nbsp; Superpower: translating complex high-dimensional data into decisions that matter
+⚡ &nbsp; Superpower: turning messy, high-dimensional, real-world data into production-grade ML systems
 
 </td>
 <td width="50%" valign="top">
@@ -66,12 +66,12 @@
 │  🔍 Open To                     │
 │  ├── Data Scientist             │
 │  ├── ML Engineer                │
-│  ├── GenAI Engineer             │
-│  ├── ESG Consultant             │
-│  └── Data Analyst               │
+│  ├── GenAI / AI Engineer        │
+│  ├── Data Analyst               │
+│  └── Research Intern            │
 │                                 │
 │  🛠️ Currently Building          │
-│  └── AI agents with            │
+│  └── Agentic AI tools with      │
 │      MCP + FastAPI + Docker     │
 └─────────────────────────────────┘
 ```
@@ -82,141 +82,29 @@
 
 ---
 
-## 💼 Experience Timeline
+## 💼 Experience
 
-<div align="center">
-
-```
-                    ╔═══════════════════════════════════════╗
-                    ║         CAREER SIGNAL TRACE           ║
-                    ╚═══════════════════════════════════════╝
-
-  2025                                                      2026+
-   │                                                          │
-   ●━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶
-   │                                                          │
-   │                                                          │
-   ▼                                          ▼               ▼
-┌──────────────────────────┐   ┌──────────────────────────┐  ┌──────────────┐
-│  🌿 Climate Resilience   │  │  🌍 Darukaa Earth        │  │  🚀 Next     │
-│     Observatory          │   │                          │  │     Chapter  │
-│                          │   │   Climate Data Scientist │  │              │
-│  Data Science Intern     │──▶│   Intern   [CURRENT]    │──▶│   [OPEN]    │
-│                          │   │                          │  │              │
-│  ✦ Env. data pipelines   │   │  ✦ ML climate analytics  │  │  You + Me   │
-│  ✦ Predictive modeling   │   │  ✦ ESG insights engine   │  │  = Impact   │
-│  ✦ Climate resilience    │   │  ✦ GenAI for climate     │  │             │
-│    statistical insights  │   │  ✦ Intelligent pipelines │  │             │
-└──────────────────────────┘   └──────────────────────────┘  └──────────────┘
-```
-
-</div>
-
----
-
-## 🎨 Tech Palette
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🤖 Generative AI & LLM Stack
-![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge&logo=llama&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-8E24AA?style=for-the-badge&logo=buffer&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-E91E63?style=for-the-badge&logo=databricks&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### ⚙️ Backend & DevOps
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C3483?style=for-the-badge&logo=anthropic&logoColor=white)
-
-### 📊 Data Ecosystem
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=013243)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-43A047?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
----
-
-## 🌐 Mission Domains
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="200">
+<td width="50%" valign="top">
 
-🌡️<br/>
-**Climate Analytics**<br/>
-Predictive modeling · Geospatial pipelines · Anomaly detection in environmental data
+**Data Science Intern**
+Climate Resilience Observatory (CRO), U.P. Govt
+*Sept 2025 – Mar 2026 · On-site*
 
-</td>
-<td align="center" width="200">
-
-🌿<br/>
-**ESG Intelligence**<br/>
-Sustainability metrics · Green investment analysis · Impact reporting frameworks
+- Built and maintained an end-to-end **ML pipeline** for rainfall prediction, achieving high accuracy across test splits
+- Sourced and engineered datasets from public meteorological APIs (NASA POWER, IMD)
+- Applied statistical modeling and feature engineering for regional risk-assessment use cases
 
 </td>
-<td align="center" width="200">
+<td width="50%" valign="top">
 
-🌩️<br/>
-**Weather Prediction**<br/>
-Deep learning forecasting · Time-series modeling · Extreme event classification
+**Data Science Intern**
+Darukaa.earth
+*Mar 2026 – June 2026 · Hybrid*
 
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-🤖<br/>
-**Generative AI**<br/>
-RAG systems · LLM pipelines · Vector search · Structured output engineering
-
-</td>
-<td align="center" width="200">
-
-🐳<br/>
-**Containerised AI Apps**<br/>
-Docker deployments · FastAPI microservices · Scalable ML inference APIs
-
-</td>
-<td align="center" width="200">
-
-🔌<br/>
-**MCP Tool Building**<br/>
-Custom MCP servers · AI agent integrations · Context-aware tool ecosystems
-
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-
-📈<br/>
-**Statistical Modeling**<br/>
-Regression · Bayesian inference · Feature engineering · Model interpretability
-
-</td>
-<td align="center" width="200">
-
-🕵️<br/>
-**AI Agents**<br/>
-Multi-agent systems · CrewAI orchestration · Autonomous task planning
-
-</td>
-<td align="center" width="200">
-
-✍️<br/>
-**Creative Intelligence**<br/>
-Lyrical writing · Data storytelling · Complex-to-simple communication
+- Built data pipelines for large-scale ecological datasets and applied **ML techniques** to extract actionable insights
+- Worked across data ingestion, cleaning, modeling, and analysis end-to-end
 
 </td>
 </tr>
@@ -224,54 +112,150 @@ Lyrical writing · Data storytelling · Complex-to-simple communication
 
 ---
 
-## 🔭 Full Stack AI Architecture
+## 🎓 Education
+
+| Institution | Degree | Period | Highlights |
+|---|---|---|---|
+| **IIIT Lucknow** | M.Sc. Data Science (CGPA: 8.05) | Aug 2025 – Jun 2027 | ML, Deep Learning, NLP, Data Mining, Reinforcement Learning, DBMS, DSA, Big Data Analytics, Statistics |
+| **University of Lucknow** | B.Sc. Statistics | Aug 2022 – Jun 2025 | Linear Algebra, Probability & Statistics, Time Series, Hypothesis Testing, Operations Research |
+
+---
+
+## 🚀 Featured Projects
+
+### 🔌 Regulatory Change Autopilot — AI-Powered Compliance Intelligence
+`HuggingFace` `MCP` `LLM` `Qdrant`
+- Built a live **RAG pipeline** scraping regulatory circulars, extracting PDF text, embedding with HuggingFace, and storing in **Qdrant** for semantic retrieval
+- Exposed the pipeline as **MCP tools**, letting AI agents autonomously detect updates, analyze gaps, and trigger downstream workflows without human input
+- 🔗 [github.com/Manas-singh14/Regulatory-Change-Autopilot-AI](https://github.com/Manas-singh14/Manas-singh14/Regulatory-Change-Autopilot-AI)
+
+### 🌧️ Rainfall Prediction Model
+`Python` `Machine Learning` `Deep Learning` `FastAPI` `Statistical Analysis`
+- Built an end-to-end ML pipeline to model rainfall using real-world climatological datasets
+- Performed in-depth statistical analysis to support downstream advisory and planning use cases
+- 🔗 [github.com/Manas-singh14/Rainfall-prediction-model](https://github.com/Manas-singh14/Rainfall-prediction-model)
+
+### 🌿 Plant Disease Classification System & AI Chatbot
+`Python` `FastAPI` `CNN` `GCP` `TensorFlow` `Matplotlib`
+- Developed a CNN-based deep learning model achieving **95% accuracy** across 3 disease categories
+- Deployed a **FastAPI** backend on Render for real-time image inference, with an HTML/CSS/JS frontend for upload & diagnosis visualization
+- 🔗 [github.com/Manas-singh14/Plant-Disease-Classification](https://github.com/Manas-singh14/Plant-Disease-Classification)
+
+---
+
+## 🎨 Tech Palette
+
+<div align="center">
+
+### 🧠 Machine Learning & Deep Learning
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Transformers%20%7C%20Attention-512DA8?style=for-the-badge&logo=google&logoColor=white)
+
+### 🤖 Generative AI & RAG
+![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1B5E20?style=for-the-badge&logo=graphql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6C3483?style=for-the-badge&logo=anthropic&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+### ⚙️ Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data Ecosystem
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-43A047?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</div>
+
+---
+
+## 🌐 Focus Areas
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+📈<br/>
+**Statistical Modeling**<br/>
+Regression · Hypothesis testing · Feature engineering · Time series
+
+</td>
+<td align="center" width="200">
+
+🧠<br/>
+**ML & Deep Learning**<br/>
+ANN · CNN · RNN · LSTM · Attention · Transformers
+
+</td>
+<td align="center" width="200">
+
+🤖<br/>
+**Generative AI & RAG**<br/>
+LLM pipelines · Vector search · Agentic retrieval
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+
+🔌<br/>
+**MCP Tool Building**<br/>
+Custom MCP servers · Context-aware agent tooling
+
+</td>
+<td align="center" width="200">
+
+🐳<br/>
+**Backend & Deployment**<br/>
+FastAPI services · Docker · Cloud (GCP)
+
+</td>
+<td align="center" width="200">
+
+🗣️<br/>
+**Data Storytelling**<br/>
+Translating models into decisions stakeholders trust
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏗️ AI System Architecture I Build With
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                        FULL STACK AI SYSTEM                                  │
 ├─────────────────────┬────────────────────────────────────────────────────────┤
-│  INPUT LAYER        │  PDFs · CSVs · Climate Datasets · ESG Reports · APIs   │
+│  INPUT LAYER        │  PDFs · CSVs · Documents · Unstructured Text · APIs    │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
 │  API GATEWAY        │  FastAPI · Async endpoints · Pydantic validation        │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
 │  MCP TOOLS          │  Custom MCP servers · Tool definitions · Agent context  │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  GEN AI FRAMEWORKS  │  LangChain · LlamaIndex · CrewAI · AutoGen             │
+│  GEN AI FRAMEWORKS  │  LangChain · LangGraph                                 │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  TEXT SPLITTING     │  Recursive · Semantic · Token-aware chunking            │
+│  EMBEDDINGS         │  HuggingFace Transformers                              │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  EMBEDDINGS         │  Sentence Transformers · OpenAI · Ollama local models   │
+│  VECTOR STORE       │  Qdrant                                                │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  VECTOR STORE       │  ChromaDB · FAISS · Weaviate                           │
+│  RETRIEVAL          │  Semantic search · RAG                                 │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  RETRIEVAL          │  Semantic search · MMR · Hybrid BM25 + dense           │
+│  LLM CHAIN          │  Prompt templates · Tool calling · Agent orchestration  │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  LLM CHAIN          │  Prompt templates · Memory buffers · Tool calling       │
+│  CONTAINERISATION   │  Docker · Reproducible ML environments                 │
 ├─────────────────────┼────────────────────────────────────────────────────────┤
-│  CONTAINERISATION   │  Docker · Docker Compose · Multi-service deployments    │
-├─────────────────────┼────────────────────────────────────────────────────────┤
-│  OUTPUT             │  Structured JSON · Reports · Climate Insights           │
+│  OUTPUT             │  Structured JSON · Reports · Model predictions          │
 └─────────────────────┴────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🧩 GenAI Frameworks I Work With
-
-<div align="center">
-
-| Framework | What I use it for |
-|---|---|
-| 🦜 **LangChain** | RAG pipelines, memory chains, tool-calling agents |
-| 🦙 **LlamaIndex** | Document indexing, structured data querying, multi-modal RAG |
-| 🤝 **CrewAI** | Multi-agent orchestration, role-based AI task delegation |
-| 🔌 **MCP (Model Context Protocol)** | Custom tool servers, context injection for Claude & GPT agents |
-| 🐳 **Docker** | Containerising AI apps, reproducible ML environments |
-| ⚡ **FastAPI** | High-performance async APIs for ML model serving |
-| 🤗 **HuggingFace** | Fine-tuning, inference, open-source model access |
-| 🖥️ **Ollama** | Running LLMs locally for offline / private inference |
-
-</div>
 
 ---
 
@@ -293,17 +277,14 @@ Lyrical writing · Data storytelling · Complex-to-simple communication
 
 ---
 
-## 🌟 The Science + Soul Philosophy
+## 🌟 Philosophy
 
-> *Data science without curiosity is just computation.*
-> *Climate work without urgency is just analysis.*
-> *I bring both — the rigor of a scientist and the voice of a storyteller.*
+> *Statistics gives me the rigor. Engineering gives me the reach.*
+> *A model that never ships is just a notebook.*
 
-I believe the most impactful data scientists are not just model builders — they are **translators**: converting signals from terabytes of environmental data into decisions that matter for the planet.
+I believe the most useful data scientists aren't just model builders — they're **systems thinkers**: people who can take a problem from raw data, through statistical reasoning and model design, all the way to a deployed, agent-ready product.
 
-My background in **lyrical writing** gives me an edge most data professionals don't have — the ability to communicate complex, high-dimensional findings to stakeholders, policymakers, and non-technical audiences with precision and clarity.
-
-Whether it's spinning up a **FastAPI** backend for a climate model, building a **MCP tool server** for an AI agent, containerising an ML app with **Docker**, or orchestrating a multi-agent workflow with **CrewAI** — I work across the full AI stack, from raw data to deployed product.
+Whether it's spinning up a **FastAPI** backend, building an **MCP tool server** for an AI agent, containerizing an ML app with **Docker**, or wiring a **RAG pipeline** end-to-end — I work across the full stack, from data to deployment.
 
 ---
 
@@ -319,8 +300,8 @@ Whether it's spinning up a **FastAPI** backend for a climate model, building a *
 
 <br/><br/>
 
-*Open to full-time roles, research collaborations, and climate AI projects.*<br/>
-*Let's build something that matters for the planet. 🌍*
+*Open to full-time roles, research collaborations, and applied AI/ML projects.*<br/>
+*Let's build something intelligent together. 🤖*
 
 <br/>
 
@@ -333,6 +314,6 @@ Whether it's spinning up a **FastAPI** backend for a climate model, building a *
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:00acc1,100:0d47a1&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e676,50:6a1b9a,100:0d47a1&height=120&section=footer&animation=fadeIn" />
 
 </div>
